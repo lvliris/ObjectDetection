@@ -1,0 +1,759 @@
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\cuda_runtime.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_config.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\sal.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\ConcurrencySal.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\vadefs.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\limits.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\stddef.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\library_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cuda_device_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\common_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\string.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\time.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\wtime.inl
+D:\learning\vs2013.5_ult_chs\az\VC\include\time.inl
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\math_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\math.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\stdlib.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\cmath
+D:\learning\vs2013.5_ult_chs\az\VC\include\yvals.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\xkeycheck.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\use_ansi.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\math.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\xtgmath.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\xtr1common
+D:\learning\vs2013.5_ult_chs\az\VC\include\cstdlib
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\math_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\math_functions_dbl_ptx3.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\math_functions_dbl_ptx3.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cuda_surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cuda_texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_double_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_double_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_20_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_32_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_35_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_32_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_60_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_20_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_30_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_32_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_35_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_32_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_61_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cuda_surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_fetch_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cuda_texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_launch_parameters.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\vector
+D:\learning\vs2013.5_ult_chs\az\VC\include\xmemory
+D:\learning\vs2013.5_ult_chs\az\VC\include\xmemory0
+D:\learning\vs2013.5_ult_chs\az\VC\include\limits
+D:\learning\vs2013.5_ult_chs\az\VC\include\ymath.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\cfloat
+D:\learning\vs2013.5_ult_chs\az\VC\include\float.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtwrn.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\climits
+D:\learning\vs2013.5_ult_chs\az\VC\include\cwchar
+D:\learning\vs2013.5_ult_chs\az\VC\include\wchar.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\swprintf.inl
+D:\learning\vs2013.5_ult_chs\az\VC\include\xstddef
+D:\learning\vs2013.5_ult_chs\az\VC\include\cstddef
+D:\learning\vs2013.5_ult_chs\az\VC\include\initializer_list
+D:\learning\vs2013.5_ult_chs\az\VC\include\new
+D:\learning\vs2013.5_ult_chs\az\VC\include\exception
+D:\learning\vs2013.5_ult_chs\az\VC\include\eh.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\malloc.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\xutility
+D:\learning\vs2013.5_ult_chs\az\VC\include\utility
+D:\learning\vs2013.5_ult_chs\az\VC\include\iosfwd
+D:\learning\vs2013.5_ult_chs\az\VC\include\cstdio
+D:\learning\vs2013.5_ult_chs\az\VC\include\stdio.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\cstring
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdbg.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\type_traits
+D:\learning\vs2013.5_ult_chs\az\VC\include\xrefwrap
+D:\learning\vs2013.5_ult_chs\az\VC\include\xatomic0.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\intrin.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\setjmp.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\immintrin.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\wmmintrin.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\nmmintrin.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\smmintrin.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\tmmintrin.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\pmmintrin.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\emmintrin.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\xmmintrin.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\mmintrin.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\ammintrin.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\stdexcept
+D:\learning\vs2013.5_ult_chs\az\VC\include\xstring
+D:\learning\caffe\FT\3rd-part\inc\boost/shared_ptr.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/smart_ptr/shared_ptr.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/config.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/config/user.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/config/select_compiler_config.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/config/compiler/nvcc.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/config/compiler/visualc.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/config/select_stdlib_config.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/config/stdlib/dinkumware.hpp
+D:\learning\vs2013.5_ult_chs\az\VC\include\typeinfo
+D:\learning\caffe\FT\3rd-part\inc\boost/config/select_platform_config.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/config/platform/win32.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/config/suffix.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/config/no_tr1/memory.hpp
+D:\learning\vs2013.5_ult_chs\az\VC\include\memory
+D:\learning\vs2013.5_ult_chs\az\VC\include\stdint.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\caffe\FT\3rd-part\inc\boost/assert.hpp
+D:\learning\vs2013.5_ult_chs\az\VC\include\assert.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\caffe\FT\3rd-part\inc\boost/checked_delete.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/core/checked_delete.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/throw_exception.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/detail/workaround.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/exception/exception.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/current_function.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/smart_ptr/detail/shared_count.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/smart_ptr/bad_weak_ptr.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/smart_ptr/detail/sp_counted_base.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/smart_ptr/detail/sp_has_sync.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/smart_ptr/detail/sp_counted_base_w32.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/smart_ptr/detail/sp_interlocked.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/detail/sp_typeinfo.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/core/typeinfo.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/core/demangle.hpp
+D:\learning\vs2013.5_ult_chs\az\VC\include\string
+D:\learning\vs2013.5_ult_chs\az\VC\include\iterator
+D:\learning\vs2013.5_ult_chs\az\VC\include\istream
+D:\learning\vs2013.5_ult_chs\az\VC\include\ostream
+D:\learning\vs2013.5_ult_chs\az\VC\include\ios
+D:\learning\vs2013.5_ult_chs\az\VC\include\xlocnum
+D:\learning\vs2013.5_ult_chs\az\VC\include\streambuf
+D:\learning\vs2013.5_ult_chs\az\VC\include\xiosbase
+D:\learning\vs2013.5_ult_chs\az\VC\include\xlocale
+D:\learning\vs2013.5_ult_chs\az\VC\include\xlocinfo
+D:\learning\vs2013.5_ult_chs\az\VC\include\xlocinfo.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\ctype.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\locale.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\xdebug
+D:\learning\vs2013.5_ult_chs\az\VC\include\xfacet
+D:\learning\vs2013.5_ult_chs\az\VC\include\system_error
+D:\learning\vs2013.5_ult_chs\az\VC\include\cerrno
+D:\learning\vs2013.5_ult_chs\az\VC\include\errno.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\share.h
+D:\learning\caffe\FT\3rd-part\inc\boost/smart_ptr/detail/sp_counted_impl.hpp
+D:\learning\vs2013.5_ult_chs\az\VC\include\functional
+D:\learning\vs2013.5_ult_chs\az\VC\include\xfunctional
+D:\learning\vs2013.5_ult_chs\az\VC\include\tuple
+D:\learning\caffe\FT\3rd-part\inc\boost/core/addressof.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/smart_ptr/detail/sp_convertible.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/smart_ptr/detail/sp_nullptr_t.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/smart_ptr/detail/spinlock_pool.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/smart_ptr/detail/spinlock.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/smart_ptr/detail/spinlock_w32.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/smart_ptr/detail/yield_k.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/predef.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/language.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/language/stdc.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/version_number.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/detail/test.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/language/stdcpp.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/language/objc.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/alpha.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/arm.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/blackfin.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/convex.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/ia64.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/m68k.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/mips.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/parisc.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/ppc.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/pyramid.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/rs6k.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/sparc.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/superh.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/sys370.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/sys390.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/x86.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/x86/32.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/x86.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/x86/32.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/x86/64.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/x86.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/x86/32.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/x86/64.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/x86/64.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture/z.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/borland.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/clang.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/comeau.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/compaq.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/diab.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/digitalmars.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/dignus.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/edg.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/ekopath.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/gcc_xml.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/gcc.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/clang.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/greenhills.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/hp_acc.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/iar.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/ibm.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/intel.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/kai.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/llvm.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/clang.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/metaware.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/metrowerks.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/microtec.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/mpw.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/palm.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/pgi.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/sgi_mipspro.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/sunpro.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/tendra.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/visualc.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/clang.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/detail/comp_detected.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/compiler/watcom.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/c.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/c/_prefix.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/detail/_cassert.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\assert.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/c/gnu.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/c/uc.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/c/vms.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/c/zos.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/std.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/std/_prefix.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/detail/_exception.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/std/cxx.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/std/dinkumware.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/std/libcomo.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/std/modena.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/std/msl.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/std/roguewave.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/std/sgi.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/std/stdcpp3.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/std/stlport.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/std/vacpp.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/aix.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/amigaos.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/android.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/beos.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/macos.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/ios.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/bsdi.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/bsdi.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/dragonfly.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/bsdi.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/dragonfly.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/free.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/bsdi.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/dragonfly.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/free.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/open.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/bsdi.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/dragonfly.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/free.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/open.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/net.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/bsdi.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/dragonfly.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/free.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/open.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/net.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/net.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/open.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/net.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/free.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/open.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/net.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/dragonfly.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/free.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/open.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/net.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/cygwin.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/haiku.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/hpux.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/irix.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/ios.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/linux.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/macos.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/os400.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/qnxnto.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/solaris.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/unix.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/vms.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/windows.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/detail/os_detected.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/other.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/other/endian.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/library/c/gnu.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/macos.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/bsdi.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/dragonfly.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/free.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/open.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/bsd/net.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/android.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/architecture.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/platform.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/platform/mingw.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/platform/windows_desktop.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/windows.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/detail/platform_detected.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/platform/windows_store.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/windows.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/platform/windows_phone.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/windows.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/platform/windows_runtime.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/make.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/os/windows.h
+D:\learning\caffe\FT\3rd-part\inc\boost/predef/version.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\algorithm
+D:\learning\caffe\FT\3rd-part\inc\boost/smart_ptr/detail/operator_bool.hpp
+D:\learning\caffe\FT\3rd-part\inc\gflags/gflags.h
+d:\learning\caffe\ft\3rd-part\inc\gflags\gflags_declare.h
+d:\learning\caffe\ft\3rd-part\inc\gflags\gflags_gflags.h
+D:\learning\caffe\FT\3rd-part\inc\glog/logging.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\sstream
+D:\learning\caffe\FT\3rd-part\inc\glog/log_severity.h
+D:\learning\caffe\FT\3rd-part\inc\glog/vlog_is_on.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\fstream
+D:\learning\vs2013.5_ult_chs\az\VC\include\iostream
+D:\learning\vs2013.5_ult_chs\az\VC\include\map
+D:\learning\vs2013.5_ult_chs\az\VC\include\xtree
+D:\learning\vs2013.5_ult_chs\az\VC\include\set
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\cublas_v2.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cublas_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cuComplex.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\math.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cuda_fp16.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\library_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\cuda.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\cuda_runtime.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\curand.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\cuda_runtime.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\driver_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\cudnn.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\cuda_runtime.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\assert.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\assert.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\assert.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\caffe\FT\3rd-part\inc\cblas.h
+d:\learning\caffe\ft\3rd-part\inc\openblas_config.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\math.h
+D:\learning\caffe\FT\3rd-part\inc\boost/scoped_ptr.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/smart_ptr/scoped_ptr.hpp
+D:\learning\caffe\FT\3rd-part\inc\boost/assert.hpp
+D:\learning\vs2013.5_ult_chs\az\VC\include\assert.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\crtdefs.h
+D:\learning\caffe\FT\3rd-part\inc\boost/smart_ptr/detail/operator_bool.hpp
+D:\learning\caffe\FT\3rd-part\inc\hdf5/hdf5.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5public.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5pubconf.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5version.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\sys/types.h
+D:\learning\vs2013.5_ult_chs\az\VC\include\inttypes.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5api_adpt.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5Apublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5Ipublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5Opublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5Lpublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5Tpublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5ACpublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5Cpublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5Dpublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5Epublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5Epubgen.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5Fpublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5FDpublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5Gpublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5MMpublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5Ppublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5Zpublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5PLpublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5Rpublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5Spublic.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5FDcore.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5FDfamily.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5FDlog.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5FDmpi.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5FDmpio.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5FDmulti.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5FDsec2.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5FDstdio.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5FDwindows.h
+d:\learning\caffe\ft\3rd-part\inc\hdf5\H5FDdirect.h

@@ -1,0 +1,247 @@
+﻿生成启动时间为 2018/7/26 23:43:31。
+     1>项目“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\ObjectDetectGPU4-2\ObjectDetectGPU4-2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\learning\vs2013.5_ult_chs\az\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include" /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D WIN64 /D NDEBUG /D _CONSOLE /D USE_CUDNN /D _WINSOCK_DEPRECATED_NO_WARNINGS /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt GETUI.cpp
+         GETUI.cpp
+     1>GETUI.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+       Link:
+         D:\learning\vs2013.5_ult_chs\az\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\ObjectDetectGPU4-2.exe" /NOLOGO /LIBPATH:"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\lib\x64" cudart.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "libboost_thread-vc120-mt-1_59.lib" gflags.lib hdf5.lib hdf5_hl.lib libglog.lib libopenblas.lib libprotobuf.lib curand.lib LevelDb.lib opencv_core2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib lmdb.lib cublas.lib cudnn.lib GTPushSdk_64.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\ObjectDetectGPU4-2.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\ObjectDetectGPU4-2.lib" /MACHINE:X64 x64\Release\absval_layer.cu.obj
+         x64\Release\base_data_layer.cu.obj
+         x64\Release\bnll_layer.cu.obj
+         x64\Release\concat_layer.cu.obj
+         x64\Release\contrastive_loss_layer.cu.obj
+         x64\Release\conv_layer.cu.obj
+         x64\Release\cudnn_conv_layer.cu.obj
+         x64\Release\cudnn_pooling_layer.cu.obj
+         x64\Release\cudnn_relu_layer.cu.obj
+         x64\Release\cudnn_sigmoid_layer.cu.obj
+         x64\Release\cudnn_softmax_layer.cu.obj
+         x64\Release\cudnn_tanh_layer.cu.obj
+         x64\Release\deconv_layer.cu.obj
+         x64\Release\dropout_layer.cu.obj
+         x64\Release\eltwise_layer.cu.obj
+         x64\Release\euclidean_loss_layer.cu.obj
+         x64\Release\exp_layer.cu.obj
+         x64\Release\filter_layer.cu.obj
+         x64\Release\hdf5_data_layer.cu.obj
+         x64\Release\hdf5_output_layer.cu.obj
+         x64\Release\im2col_layer.cu.obj
+         x64\Release\inner_product_layer.cu.obj
+         x64\Release\log_layer.cu.obj
+         x64\Release\lrn_layer.cu.obj
+         x64\Release\mvn_layer.cu.obj
+         x64\Release\pooling_layer.cu.obj
+         x64\Release\power_layer.cu.obj
+         x64\Release\prelu_layer.cu.obj
+         x64\Release\reduction_layer.cu.obj
+         x64\Release\relu_layer.cu.obj
+         x64\Release\roi_pooling_layer.cu.obj
+         x64\Release\sigmoid_cross_entropy_loss_layer.cu.obj
+         x64\Release\sigmoid_layer.cu.obj
+         x64\Release\silence_layer.cu.obj
+         x64\Release\slice_layer.cu.obj
+         x64\Release\smooth_L1_loss_layer.cu.obj
+         x64\Release\softmax_layer.cu.obj
+         x64\Release\softmax_loss_layer.cu.obj
+         x64\Release\split_layer.cu.obj
+         x64\Release\tanh_layer.cu.obj
+         x64\Release\threshold_layer.cu.obj
+         x64\Release\im2col.cu.obj
+         x64\Release\math_functions.cu.obj
+         x64\Release\nms.cu.obj
+         x64\Release\blob.obj
+         x64\Release\caffe_common.obj
+         x64\Release\data_transformer.obj
+         x64\Release\internal_thread.obj
+         x64\Release\absval_layer.obj
+         x64\Release\accuracy_layer.obj
+         x64\Release\argmax_layer.obj
+         x64\Release\base_conv_layer.obj
+         x64\Release\base_data_layer.obj
+         x64\Release\bnll_layer.obj
+         x64\Release\concat_layer.obj
+         x64\Release\contrastive_loss_layer.obj
+         x64\Release\conv_layer.obj
+         x64\Release\cudnn_conv_layer.obj
+         x64\Release\cudnn_pooling_layer.obj
+         x64\Release\cudnn_relu_layer.obj
+         x64\Release\cudnn_sigmoid_layer.obj
+         x64\Release\cudnn_softmax_layer.obj
+         x64\Release\cudnn_tanh_layer.obj
+         x64\Release\data_layer.obj
+         x64\Release\deconv_layer.obj
+         x64\Release\dropout_layer.obj
+         x64\Release\dummy_data_layer.obj
+         x64\Release\eltwise_layer.obj
+         x64\Release\euclidean_loss_layer.obj
+         x64\Release\exp_layer.obj
+         x64\Release\filter_layer.obj
+         x64\Release\flatten_layer.obj
+         x64\Release\hdf5_data_layer.obj
+         x64\Release\hdf5_output_layer.obj
+         x64\Release\hinge_loss_layer.obj
+         x64\Release\im2col_layer.obj
+         x64\Release\image_data_layer.obj
+         x64\Release\infogain_loss_layer.obj
+         x64\Release\inner_product_layer.obj
+         x64\Release\log_layer.obj
+         x64\Release\loss_layer.obj
+         x64\Release\lrn_layer.obj
+         x64\Release\memory_data_layer.obj
+         x64\Release\multinomial_logistic_loss_layer.obj
+         x64\Release\mvn_layer.obj
+         x64\Release\neuron_layer.obj
+         x64\Release\pooling_layer.obj
+         x64\Release\power_layer.obj
+         x64\Release\prelu_layer.obj
+         x64\Release\reduction_layer.obj
+         x64\Release\relu_layer.obj
+         x64\Release\reshape_layer.obj
+         x64\Release\roi_pooling_layer.obj
+         x64\Release\sigmoid_cross_entropy_loss_layer.obj
+         x64\Release\sigmoid_layer.obj
+         x64\Release\silence_layer.obj
+         x64\Release\slice_layer.obj
+         x64\Release\smooth_L1_loss_layer.obj
+         x64\Release\softmax_layer.obj
+         x64\Release\softmax_loss_layer.obj
+         x64\Release\split_layer.obj
+         x64\Release\spp_layer.obj
+         x64\Release\tanh_layer.obj
+         x64\Release\threshold_layer.obj
+         x64\Release\window_data_layer.obj
+         x64\Release\layer_factory.obj
+         x64\Release\net.obj
+         x64\Release\caffe.pb.obj
+         x64\Release\solver.obj
+         x64\Release\syncedmem.obj
+         x64\Release\benchmark.obj
+         x64\Release\cudnn.obj
+         x64\Release\db.obj
+         x64\Release\db_leveldb.obj
+         x64\Release\db_lmdb.obj
+         x64\Release\im2col.obj
+         x64\Release\insert_splits.obj
+         x64\Release\io.obj
+         x64\Release\math_functions.obj
+         x64\Release\upgrade_proto.obj
+         x64\Release\GETUI.obj
+         x64\Release\code_generator.obj
+         x64\Release\command_line_interface.obj
+         x64\Release\cpp_enum.obj
+         x64\Release\cpp_enum_field.obj
+         x64\Release\cpp_extension.obj
+         x64\Release\cpp_field.obj
+         x64\Release\cpp_file.obj
+         x64\Release\cpp_generator.obj
+         x64\Release\cpp_helpers.obj
+         x64\Release\cpp_message.obj
+         x64\Release\cpp_message_field.obj
+         x64\Release\cpp_primitive_field.obj
+         x64\Release\cpp_service.obj
+         x64\Release\cpp_string_field.obj
+         x64\Release\importer.obj
+         x64\Release\parser.obj
+         x64\Release\plugin.obj
+         x64\Release\plugin.pb.obj
+         x64\Release\subprocess.obj
+         x64\Release\zip_writer.obj
+         x64\Release\descriptor.obj
+         x64\Release\descriptor.pb.obj
+         x64\Release\descriptor_database.obj
+         x64\Release\dynamic_message.obj
+         x64\Release\extension_set.obj
+         x64\Release\extension_set_heavy.obj
+         x64\Release\generated_message_reflection.obj
+         x64\Release\generated_message_util.obj
+         x64\Release\coded_stream.obj
+         x64\Release\gzip_stream.obj
+         x64\Release\printer.obj
+         x64\Release\strtod.obj
+         x64\Release\tokenizer.obj
+         x64\Release\zero_copy_stream.obj
+         x64\Release\zero_copy_stream_impl.obj
+         x64\Release\zero_copy_stream_impl_lite.obj
+         x64\Release\message.obj
+         x64\Release\message_lite.obj
+         x64\Release\reflection_ops.obj
+         x64\Release\repeated_field.obj
+         x64\Release\service.obj
+         x64\Release\atomicops_internals_x86_gcc.obj
+         x64\Release\atomicops_internals_x86_msvc.obj
+         x64\Release\common.obj
+         x64\Release\once.obj
+         x64\Release\stringprintf.obj
+         x64\Release\structurally_valid.obj
+         x64\Release\strutil.obj
+         x64\Release\substitute.obj
+         x64\Release\text_format.obj
+         x64\Release\unknown_field_set.obj
+         x64\Release\wire_format.obj
+         x64\Release\wire_format_lite.obj
+         x64\Release\ObjDetTrack.obj
+         x64\Release\ObjectDetect.obj
+         x64\Release\TCPClient.obj
+         正在生成代码
+     1>d:\caffeprogram\6ft\objectdetectgpu6-2\objectdetectgpu4-2\google\protobuf\extension_set.cc(74): warning C4715: “google::protobuf::internal::`anonymous namespace'::is_packable”: 不是所有的控件路径都返回值
+     1>d:\caffeprogram\6ft\objectdetectgpu6-2\objectdetectgpu4-2\caffe\util\db.cpp(18): warning C4715: “caffe::db::GetDB”: 不是所有的控件路径都返回值
+     1>d:\caffeprogram\6ft\objectdetectgpu6-2\objectdetectgpu4-2\caffe\layer_factory.cpp(64): warning C4715: “caffe::GetPoolingLayer<double>”: 不是所有的控件路径都返回值
+     1>d:\caffeprogram\6ft\objectdetectgpu6-2\objectdetectgpu4-2\caffe\layer_factory.cpp(174): warning C4715: “caffe::GetSoftmaxLayer<double>”: 不是所有的控件路径都返回值
+     1>d:\caffeprogram\6ft\objectdetectgpu6-2\objectdetectgpu4-2\caffe\layer_factory.cpp(174): warning C4715: “caffe::GetSoftmaxLayer<float>”: 不是所有的控件路径都返回值
+     1>d:\caffeprogram\6ft\objectdetectgpu6-2\objectdetectgpu4-2\caffe\layer_factory.cpp(64): warning C4715: “caffe::GetPoolingLayer<float>”: 不是所有的控件路径都返回值
+     1>d:\caffeprogram\6ft\objectdetectgpu6-2\objectdetectgpu4-2\caffe\layer_factory.cpp(197): warning C4715: “caffe::GetTanHLayer<double>”: 不是所有的控件路径都返回值
+     1>d:\caffeprogram\6ft\objectdetectgpu6-2\objectdetectgpu4-2\caffe\layer_factory.cpp(151): warning C4715: “caffe::GetSigmoidLayer<double>”: 不是所有的控件路径都返回值
+     1>d:\caffeprogram\6ft\objectdetectgpu6-2\objectdetectgpu4-2\caffe\layer_factory.cpp(87): warning C4715: “caffe::GetReLULayer<double>”: 不是所有的控件路径都返回值
+     1>d:\caffeprogram\6ft\objectdetectgpu6-2\objectdetectgpu4-2\caffe\layer_factory.cpp(197): warning C4715: “caffe::GetTanHLayer<float>”: 不是所有的控件路径都返回值
+     1>d:\caffeprogram\6ft\objectdetectgpu6-2\objectdetectgpu4-2\caffe\layer_factory.cpp(151): warning C4715: “caffe::GetSigmoidLayer<float>”: 不是所有的控件路径都返回值
+     1>d:\caffeprogram\6ft\objectdetectgpu6-2\objectdetectgpu4-2\caffe\layer_factory.cpp(87): warning C4715: “caffe::GetReLULayer<float>”: 不是所有的控件路径都返回值
+     1>d:\caffeprogram\6ft\objectdetectgpu6-2\objectdetectgpu4-2\caffe\layer_factory.cpp(34): warning C4715: “caffe::GetConvolutionLayer<double>”: 不是所有的控件路径都返回值
+     1>d:\caffeprogram\6ft\objectdetectgpu6-2\objectdetectgpu4-2\caffe\layer_factory.cpp(34): warning C4715: “caffe::GetConvolutionLayer<float>”: 不是所有的控件路径都返回值
+         已完成代码的生成
+     1>LevelDb.lib(builder.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(builder.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(dbformat.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(dbformat.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(db_impl.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(db_impl.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(db_iter.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(db_iter.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(filename.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(filename.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(log_reader.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(log_reader.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(log_writer.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(log_writer.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(memtable.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(memtable.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(table_cache.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(table_cache.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(version_edit.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(version_edit.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(version_set.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(version_set.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(write_batch.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(write_batch.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(port_win.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(port_win.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(block.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(block.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(block_builder.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(block_builder.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(format.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(format.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(iterator.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(iterator.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(merger.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(merger.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(table.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(table.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(table_builder.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(table_builder.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(two_level_iterator.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(two_level_iterator.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(arena.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(arena.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(cache.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(cache.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(coding.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(coding.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(comparator.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(comparator.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(crc32c.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(crc32c.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(env.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(env.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(env_boost.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(env_boost.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(hash.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(hash.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(logging.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(logging.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(options.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(options.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(status.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(status.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>LevelDb.lib(win_logger.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“LevelDb.lib(win_logger.obj)”或在“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         ObjectDetectGPU4-2.vcxproj -> D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\ObjectDetectGPU4-2.exe
+       PostBuildEvent:
+         echo copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\"
+         copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\"
+         :VCEnd
+         copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "D:\CaffeProgram\6FT\ObjectDetectGPU6-2\x64\Release\"
+         C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+         C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+         已复制         2 个文件。
+     1>已完成生成项目“D:\CaffeProgram\6FT\ObjectDetectGPU6-2\ObjectDetectGPU4-2\ObjectDetectGPU4-2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:46.09

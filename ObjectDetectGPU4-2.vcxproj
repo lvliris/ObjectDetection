@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="caffe\blob.cpp" />
+    <ClCompile Include="caffe\caffe_common.cpp" />
+    <ClCompile Include="caffe\data_transformer.cpp" />
+    <ClCompile Include="caffe\internal_thread.cpp" />
+    <ClCompile Include="caffe\layers\absval_layer.cpp" />
+    <ClCompile Include="caffe\layers\accuracy_layer.cpp" />
+    <ClCompile Include="caffe\layers\argmax_layer.cpp" />
+    <ClCompile Include="caffe\layers\base_conv_layer.cpp" />
+    <ClCompile Include="caffe\layers\base_data_layer.cpp" />
+    <ClCompile Include="caffe\layers\bnll_layer.cpp" />
+    <ClCompile Include="caffe\layers\concat_layer.cpp" />
+    <ClCompile Include="caffe\layers\contrastive_loss_layer.cpp" />
+    <ClCompile Include="caffe\layers\conv_layer.cpp" />
+    <ClCompile Include="caffe\layers\cudnn_conv_layer.cpp" />
+    <ClCompile Include="caffe\layers\cudnn_pooling_layer.cpp" />
+    <ClCompile Include="caffe\layers\cudnn_relu_layer.cpp" />
+    <ClCompile Include="caffe\layers\cudnn_sigmoid_layer.cpp" />
+    <ClCompile Include="caffe\layers\cudnn_softmax_layer.cpp" />
+    <ClCompile Include="caffe\layers\cudnn_tanh_layer.cpp" />
+    <ClCompile Include="caffe\layers\data_layer.cpp" />
+    <ClCompile Include="caffe\layers\deconv_layer.cpp" />
+    <ClCompile Include="caffe\layers\dropout_layer.cpp" />
+    <ClCompile Include="caffe\layers\dummy_data_layer.cpp" />
+    <ClCompile Include="caffe\layers\eltwise_layer.cpp" />
+    <ClCompile Include="caffe\layers\euclidean_loss_layer.cpp" />
+    <ClCompile Include="caffe\layers\exp_layer.cpp" />
+    <ClCompile Include="caffe\layers\filter_layer.cpp" />
+    <ClCompile Include="caffe\layers\flatten_layer.cpp" />
+    <ClCompile Include="caffe\layers\hdf5_data_layer.cpp" />
+    <ClCompile Include="caffe\layers\hdf5_output_layer.cpp" />
+    <ClCompile Include="caffe\layers\hinge_loss_layer.cpp" />
+    <ClCompile Include="caffe\layers\im2col_layer.cpp" />
+    <ClCompile Include="caffe\layers\image_data_layer.cpp" />
+    <ClCompile Include="caffe\layers\infogain_loss_layer.cpp" />
+    <ClCompile Include="caffe\layers\inner_product_layer.cpp" />
+    <ClCompile Include="caffe\layers\log_layer.cpp" />
+    <ClCompile Include="caffe\layers\loss_layer.cpp" />
+    <ClCompile Include="caffe\layers\lrn_layer.cpp" />
+    <ClCompile Include="caffe\layers\memory_data_layer.cpp" />
+    <ClCompile Include="caffe\layers\multinomial_logistic_loss_layer.cpp" />
+    <ClCompile Include="caffe\layers\mvn_layer.cpp" />
+    <ClCompile Include="caffe\layers\neuron_layer.cpp" />
+    <ClCompile Include="caffe\layers\pooling_layer.cpp" />
+    <ClCompile Include="caffe\layers\power_layer.cpp" />
+    <ClCompile Include="caffe\layers\prelu_layer.cpp" />
+    <ClCompile Include="caffe\layers\reduction_layer.cpp" />
+    <ClCompile Include="caffe\layers\relu_layer.cpp" />
+    <ClCompile Include="caffe\layers\reshape_layer.cpp" />
+    <ClCompile Include="caffe\layers\roi_pooling_layer.cpp" />
+    <ClCompile Include="caffe\layers\sigmoid_cross_entropy_loss_layer.cpp" />
+    <ClCompile Include="caffe\layers\sigmoid_layer.cpp" />
+    <ClCompile Include="caffe\layers\silence_layer.cpp" />
+    <ClCompile Include="caffe\layers\slice_layer.cpp" />
+    <ClCompile Include="caffe\layers\smooth_L1_loss_layer.cpp" />
+    <ClCompile Include="caffe\layers\softmax_layer.cpp" />
+    <ClCompile Include="caffe\layers\softmax_loss_layer.cpp" />
+    <ClCompile Include="caffe\layers\split_layer.cpp" />
+    <ClCompile Include="caffe\layers\spp_layer.cpp" />
+    <ClCompile Include="caffe\layers\tanh_layer.cpp" />
+    <ClCompile Include="caffe\layers\threshold_layer.cpp" />
+    <ClCompile Include="caffe\layers\window_data_layer.cpp" />
+    <ClCompile Include="caffe\layer_factory.cpp" />
+    <ClCompile Include="caffe\net.cpp" />
+    <ClCompile Include="caffe\proto\caffe.pb.cc" />
+    <ClCompile Include="caffe\solver.cpp" />
+    <ClCompile Include="caffe\syncedmem.cpp" />
+    <ClCompile Include="caffe\util\benchmark.cpp" />
+    <ClCompile Include="caffe\util\cudnn.cpp" />
+    <ClCompile Include="caffe\util\db.cpp" />
+    <ClCompile Include="caffe\util\db_leveldb.cpp" />
+    <ClCompile Include="caffe\util\db_lmdb.cpp" />
+    <ClCompile Include="caffe\util\im2col.cpp" />
+    <ClCompile Include="caffe\util\insert_splits.cpp" />
+    <ClCompile Include="caffe\util\io.cpp" />
+    <ClCompile Include="caffe\util\math_functions.cpp" />
+    <ClCompile Include="caffe\util\upgrade_proto.cpp" />
+    <ClCompile Include="GETUI.cpp" />
+    <ClCompile Include="google\protobuf\compiler\code_generator.cc" />
+    <ClCompile Include="google\protobuf\compiler\command_line_interface.cc" />
+    <ClCompile Include="google\protobuf\compiler\cpp\cpp_enum.cc" />
+    <ClCompile Include="google\protobuf\compiler\cpp\cpp_enum_field.cc" />
+    <ClCompile Include="google\protobuf\compiler\cpp\cpp_extension.cc" />
+    <ClCompile Include="google\protobuf\compiler\cpp\cpp_field.cc" />
+    <ClCompile Include="google\protobuf\compiler\cpp\cpp_file.cc" />
+    <ClCompile Include="google\protobuf\compiler\cpp\cpp_generator.cc" />
+    <ClCompile Include="google\protobuf\compiler\cpp\cpp_helpers.cc" />
+    <ClCompile Include="google\protobuf\compiler\cpp\cpp_message.cc" />
+    <ClCompile Include="google\protobuf\compiler\cpp\cpp_message_field.cc" />
+    <ClCompile Include="google\protobuf\compiler\cpp\cpp_primitive_field.cc" />
+    <ClCompile Include="google\protobuf\compiler\cpp\cpp_service.cc" />
+    <ClCompile Include="google\protobuf\compiler\cpp\cpp_string_field.cc" />
+    <ClCompile Include="google\protobuf\compiler\importer.cc" />
+    <ClCompile Include="google\protobuf\compiler\parser.cc" />
+    <ClCompile Include="google\protobuf\compiler\plugin.cc" />
+    <ClCompile Include="google\protobuf\compiler\plugin.pb.cc" />
+    <ClCompile Include="google\protobuf\compiler\subprocess.cc" />
+    <ClCompile Include="google\protobuf\compiler\zip_writer.cc" />
+    <ClCompile Include="google\protobuf\descriptor.cc" />
+    <ClCompile Include="google\protobuf\descriptor.pb.cc" />
+    <ClCompile Include="google\protobuf\descriptor_database.cc" />
+    <ClCompile Include="google\protobuf\dynamic_message.cc" />
+    <ClCompile Include="google\protobuf\extension_set.cc" />
+    <ClCompile Include="google\protobuf\extension_set_heavy.cc" />
+    <ClCompile Include="google\protobuf\generated_message_reflection.cc" />
+    <ClCompile Include="google\protobuf\generated_message_util.cc" />
+    <ClCompile Include="google\protobuf\io\coded_stream.cc" />
+    <ClCompile Include="google\protobuf\io\gzip_stream.cc" />
+    <ClCompile Include="google\protobuf\io\printer.cc" />
+    <ClCompile Include="google\protobuf\io\strtod.cc" />
+    <ClCompile Include="google\protobuf\io\tokenizer.cc" />
+    <ClCompile Include="google\protobuf\io\zero_copy_stream.cc" />
+    <ClCompile Include="google\protobuf\io\zero_copy_stream_impl.cc" />
+    <ClCompile Include="google\protobuf\io\zero_copy_stream_impl_lite.cc" />
+    <ClCompile Include="google\protobuf\message.cc" />
+    <ClCompile Include="google\protobuf\message_lite.cc" />
+    <ClCompile Include="google\protobuf\reflection_ops.cc" />
+    <ClCompile Include="google\protobuf\repeated_field.cc" />
+    <ClCompile Include="google\protobuf\service.cc" />
+    <ClCompile Include="google\protobuf\stubs\atomicops_internals_x86_gcc.cc" />
+    <ClCompile Include="google\protobuf\stubs\atomicops_internals_x86_msvc.cc" />
+    <ClCompile Include="google\protobuf\stubs\common.cc" />
+    <ClCompile Include="google\protobuf\stubs\once.cc" />
+    <ClCompile Include="google\protobuf\stubs\stringprintf.cc" />
+    <ClCompile Include="google\protobuf\stubs\structurally_valid.cc" />
+    <ClCompile Include="google\protobuf\stubs\strutil.cc" />
+    <ClCompile Include="google\protobuf\stubs\substitute.cc" />
+    <ClCompile Include="google\protobuf\text_format.cc" />
+    <ClCompile Include="google\protobuf\unknown_field_set.cc" />
+    <ClCompile Include="google\protobuf\wire_format.cc" />
+    <ClCompile Include="google\protobuf\wire_format_lite.cc" />
+    <ClCompile Include="ObjDetTrack.cpp" />
+    <ClCompile Include="ObjectDetect.cpp" />
+    <ClCompile Include="TCPClient.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="caffe\blob.hpp" />
+    <ClInclude Include="caffe\caffe.hpp" />
+    <ClInclude Include="caffe\caffe_common.hpp" />
+    <ClInclude Include="caffe\common_layers.hpp" />
+    <ClInclude Include="caffe\data_layers.hpp" />
+    <ClInclude Include="caffe\data_transformer.hpp" />
+    <ClInclude Include="caffe\filler.hpp" />
+    <ClInclude Include="caffe\internal_thread.hpp" />
+    <ClInclude Include="caffe\layer.hpp" />
+    <ClInclude Include="caffe\layer_factory.hpp" />
+    <ClInclude Include="caffe\loss_layers.hpp" />
+    <ClInclude Include="caffe\net.hpp" />
+    <ClInclude Include="caffe\neuron_layers.hpp" />
+    <ClInclude Include="caffe\proto\caffe.pb.h" />
+    <ClInclude Include="caffe\python_layer.hpp" />
+    <ClInclude Include="caffe\solver.hpp" />
+    <ClInclude Include="caffe\syncedmem.hpp" />
+    <ClInclude Include="caffe\util\benchmark.hpp" />
+    <ClInclude Include="caffe\util\cudnn.hpp" />
+    <ClInclude Include="caffe\util\db.hpp" />
+    <ClInclude Include="caffe\util\db_leveldb.hpp" />
+    <ClInclude Include="caffe\util\db_lmdb.hpp" />
+    <ClInclude Include="caffe\util\device_alternate.hpp" />
+    <ClInclude Include="caffe\util\im2col.hpp" />
+    <ClInclude Include="caffe\util\insert_splits.hpp" />
+    <ClInclude Include="caffe\util\io.hpp" />
+    <ClInclude Include="caffe\util\math_functions.hpp" />
+    <ClInclude Include="caffe\util\mkl_alternate.hpp" />
+    <ClInclude Include="caffe\util\rng.hpp" />
+    <ClInclude Include="caffe\util\upgrade_proto.hpp" />
+    <ClInclude Include="caffe\vision_layers.hpp" />
+    <ClInclude Include="GETUI.h" />
+    <ClInclude Include="google\protobuf\compiler\code_generator.h" />
+    <ClInclude Include="google\protobuf\compiler\command_line_interface.h" />
+    <ClInclude Include="google\protobuf\compiler\cpp\cpp_enum.h" />
+    <ClInclude Include="google\protobuf\compiler\cpp\cpp_enum_field.h" />
+    <ClInclude Include="google\protobuf\compiler\cpp\cpp_extension.h" />
+    <ClInclude Include="google\protobuf\compiler\cpp\cpp_field.h" />
+    <ClInclude Include="google\protobuf\compiler\cpp\cpp_file.h" />
+    <ClInclude Include="google\protobuf\compiler\cpp\cpp_generator.h" />
+    <ClInclude Include="google\protobuf\compiler\cpp\cpp_helpers.h" />
+    <ClInclude Include="google\protobuf\compiler\cpp\cpp_message.h" />
+    <ClInclude Include="google\protobuf\compiler\cpp\cpp_message_field.h" />
+    <ClInclude Include="google\protobuf\compiler\cpp\cpp_options.h" />
+    <ClInclude Include="google\protobuf\compiler\cpp\cpp_primitive_field.h" />
+    <ClInclude Include="google\protobuf\compiler\cpp\cpp_service.h" />
+    <ClInclude Include="google\protobuf\compiler\cpp\cpp_string_field.h" />
+    <ClInclude Include="google\protobuf\compiler\importer.h" />
+    <ClInclude Include="google\protobuf\compiler\package_info.h" />
+    <ClInclude Include="google\protobuf\compiler\parser.h" />
+    <ClInclude Include="google\protobuf\compiler\plugin.h" />
+    <ClInclude Include="google\protobuf\compiler\plugin.pb.h" />
+    <ClInclude Include="google\protobuf\compiler\subprocess.h" />
+    <ClInclude Include="google\protobuf\compiler\zip_writer.h" />
+    <ClInclude Include="google\protobuf\descriptor.h" />
+    <ClInclude Include="google\protobuf\descriptor.pb.h" />
+    <ClInclude Include="google\protobuf\descriptor_database.h" />
+    <ClInclude Include="google\protobuf\dynamic_message.h" />
+    <ClInclude Include="google\protobuf\extension_set.h" />
+    <ClInclude Include="google\protobuf\generated_enum_reflection.h" />
+    <ClInclude Include="google\protobuf\generated_message_reflection.h" />
+    <ClInclude Include="google\protobuf\generated_message_util.h" />
+    <ClInclude Include="google\protobuf\io\coded_stream.h" />
+    <ClInclude Include="google\protobuf\io\coded_stream_inl.h" />
+    <ClInclude Include="google\protobuf\io\gzip_stream.h" />
+    <ClInclude Include="google\protobuf\io\package_info.h" />
+    <ClInclude Include="google\protobuf\io\printer.h" />
+    <ClInclude Include="google\protobuf\io\strtod.h" />
+    <ClInclude Include="google\protobuf\io\tokenizer.h" />
+    <ClInclude Include="google\protobuf\io\zero_copy_stream.h" />
+    <ClInclude Include="google\protobuf\io\zero_copy_stream_impl.h" />
+    <ClInclude Include="google\protobuf\io\zero_copy_stream_impl_lite.h" />
+    <ClInclude Include="google\protobuf\message.h" />
+    <ClInclude Include="google\protobuf\message_lite.h" />
+    <ClInclude Include="google\protobuf\package_info.h" />
+    <ClInclude Include="google\protobuf\reflection_ops.h" />
+    <ClInclude Include="google\protobuf\repeated_field.h" />
+    <ClInclude Include="google\protobuf\service.h" />
+    <ClInclude Include="google\protobuf\stubs\atomicops.h" />
+    <ClInclude Include="google\protobuf\stubs\atomicops_internals_arm64_gcc.h" />
+    <ClInclude Include="google\protobuf\stubs\atomicops_internals_arm_gcc.h" />
+    <ClInclude Include="google\protobuf\stubs\atomicops_internals_arm_qnx.h" />
+    <ClInclude Include="google\protobuf\stubs\atomicops_internals_atomicword_compat.h" />
+    <ClInclude Include="google\protobuf\stubs\atomicops_internals_generic_gcc.h" />
+    <ClInclude Include="google\protobuf\stubs\atomicops_internals_macosx.h" />
+    <ClInclude Include="google\protobuf\stubs\atomicops_internals_mips_gcc.h" />
+    <ClInclude Include="google\protobuf\stubs\atomicops_internals_pnacl.h" />
+    <ClInclude Include="google\protobuf\stubs\atomicops_internals_tsan.h" />
+    <ClInclude Include="google\protobuf\stubs\atomicops_internals_x86_gcc.h" />
+    <ClInclude Include="google\protobuf\stubs\atomicops_internals_x86_msvc.h" />
+    <ClInclude Include="google\protobuf\stubs\common.h" />
+    <ClInclude Include="google\protobuf\stubs\hash.h" />
+    <ClInclude Include="google\protobuf\stubs\map_util.h" />
+    <ClInclude Include="google\protobuf\stubs\once.h" />
+    <ClInclude Include="google\protobuf\stubs\platform_macros.h" />
+    <ClInclude Include="google\protobuf\stubs\shared_ptr.h" />
+    <ClInclude Include="google\protobuf\stubs\stl_util.h" />
+    <ClInclude Include="google\protobuf\stubs\stringprintf.h" />
+    <ClInclude Include="google\protobuf\stubs\strutil.h" />
+    <ClInclude Include="google\protobuf\stubs\substitute.h" />
+    <ClInclude Include="google\protobuf\stubs\template_util.h" />
+    <ClInclude Include="google\protobuf\stubs\type_traits.h" />
+    <ClInclude Include="google\protobuf\text_format.h" />
+    <ClInclude Include="google\protobuf\unknown_field_set.h" />
+    <ClInclude Include="google\protobuf\wire_format.h" />
+    <ClInclude Include="google\protobuf\wire_format_lite.h" />
+    <ClInclude Include="google\protobuf\wire_format_lite_inl.h" />
+    <ClInclude Include="NetDefine.h" />
+    <ClInclude Include="ObjDetTrack.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="TCPClient.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CudaCompile Include="caffe\layers\absval_layer.cu" />
+    <CudaCompile Include="caffe\layers\base_data_layer.cu" />
+    <CudaCompile Include="caffe\layers\bnll_layer.cu" />
+    <CudaCompile Include="caffe\layers\concat_layer.cu" />
+    <CudaCompile Include="caffe\layers\contrastive_loss_layer.cu" />
+    <CudaCompile Include="caffe\layers\conv_layer.cu" />
+    <CudaCompile Include="caffe\layers\cudnn_conv_layer.cu" />
+    <CudaCompile Include="caffe\layers\cudnn_pooling_layer.cu" />
+    <CudaCompile Include="caffe\layers\cudnn_relu_layer.cu" />
+    <CudaCompile Include="caffe\layers\cudnn_sigmoid_layer.cu" />
+    <CudaCompile Include="caffe\layers\cudnn_softmax_layer.cu" />
+    <CudaCompile Include="caffe\layers\cudnn_tanh_layer.cu" />
+    <CudaCompile Include="caffe\layers\deconv_layer.cu" />
+    <CudaCompile Include="caffe\layers\dropout_layer.cu" />
+    <CudaCompile Include="caffe\layers\eltwise_layer.cu" />
+    <CudaCompile Include="caffe\layers\euclidean_loss_layer.cu" />
+    <CudaCompile Include="caffe\layers\exp_layer.cu" />
+    <CudaCompile Include="caffe\layers\filter_layer.cu" />
+    <CudaCompile Include="caffe\layers\hdf5_data_layer.cu" />
+    <CudaCompile Include="caffe\layers\hdf5_output_layer.cu" />
+    <CudaCompile Include="caffe\layers\im2col_layer.cu" />
+    <CudaCompile Include="caffe\layers\inner_product_layer.cu" />
+    <CudaCompile Include="caffe\layers\log_layer.cu" />
+    <CudaCompile Include="caffe\layers\lrn_layer.cu" />
+    <CudaCompile Include="caffe\layers\mvn_layer.cu" />
+    <CudaCompile Include="caffe\layers\pooling_layer.cu" />
+    <CudaCompile Include="caffe\layers\power_layer.cu" />
+    <CudaCompile Include="caffe\layers\prelu_layer.cu" />
+    <CudaCompile Include="caffe\layers\reduction_layer.cu" />
+    <CudaCompile Include="caffe\layers\relu_layer.cu" />
+    <CudaCompile Include="caffe\layers\roi_pooling_layer.cu" />
+    <CudaCompile Include="caffe\layers\sigmoid_cross_entropy_loss_layer.cu" />
+    <CudaCompile Include="caffe\layers\sigmoid_layer.cu" />
+    <CudaCompile Include="caffe\layers\silence_layer.cu" />
+    <CudaCompile Include="caffe\layers\slice_layer.cu" />
+    <CudaCompile Include="caffe\layers\smooth_L1_loss_layer.cu" />
+    <CudaCompile Include="caffe\layers\softmax_layer.cu" />
+    <CudaCompile Include="caffe\layers\softmax_loss_layer.cu" />
+    <CudaCompile Include="caffe\layers\split_layer.cu" />
+    <CudaCompile Include="caffe\layers\tanh_layer.cu" />
+    <CudaCompile Include="caffe\layers\threshold_layer.cu" />
+    <CudaCompile Include="caffe\util\im2col.cu" />
+    <CudaCompile Include="caffe\util\math_functions.cu" />
+    <CudaCompile Include="nms.cu" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="caffe\layers\roi_pooling_layer.cpp.bak" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{07C6628E-9BF3-4194-86EC-B47569CEAD27}</ProjectGuid>
+    <RootNamespace>ObjectDetectGPU4_2</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+    <Import Project="$(VCTargetsPath)\BuildCustomizations\CUDA 8.0.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <IncludePath>D:\CaffeProgram\SendToPhone\GETUI_C++_SDK\GETUI_C++_SDK\C++_window\Demo;D:\learning\cuDNN\cuda\include;D:\learning\caffe\FT\3rd-part\inc\hdf5;D:\learning\caffe\FT\3rd-part\inc;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include;D:\CaffeProgram\6FT\ObjectDetectGPU6-2\ObjectDetectGPU4-2\caffe;D:\CaffeProgram\6FT\ObjectDetectGPU6-2\ObjectDetectGPU4-2;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\CaffeProgram\SendToPhone\GETUI_C++_SDK\GETUI_C++_SDK\C++_window\Demo;D:\learning\cuDNN\cuda\lib\x64;D:\learning\caffe\FT\3rd-part\lib;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\lib\x64;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IncludePath>D:\CaffeProgram\6FT\ObjectDetectGPU6\ObjectDetectGPU4-2\caffe;D:\CaffeProgram\6FT\ObjectDetectGPU6\ObjectDetectGPU4-2;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include;D:\learning\caffe\FT\3rd-part\inc;D:\learning\caffe\FT\3rd-part\inc\hdf5;D:\learning\cuDNN\cuda\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\lib\x64;D:\learning\caffe\FT\3rd-part\lib;D:\learning\cuDNN\cuda\lib\x64;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Console</SubSystem>
+      <AdditionalDependencies>cudart.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <PostBuildEvent>
+      <Command>echo copy "$(CudaToolkitBinDir)\cudart*.dll" "$(OutDir)"
+copy "$(CudaToolkitBinDir)\cudart*.dll" "$(OutDir)"</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;WIN64;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Console</SubSystem>
+      <AdditionalDependencies>cudart.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <PostBuildEvent>
+      <Command>echo copy "$(CudaToolkitBinDir)\cudart*.dll" "$(OutDir)"
+copy "$(CudaToolkitBinDir)\cudart*.dll" "$(OutDir)"</Command>
+    </PostBuildEvent>
+    <CudaCompile>
+      <TargetMachinePlatform>64</TargetMachinePlatform>
+    </CudaCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;USE_CUDNN;_WINSOCK_DEPRECATED_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <SubSystem>Console</SubSystem>
+      <AdditionalDependencies>cudart.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;libboost_thread-vc120-mt-1_59.lib;gflags.lib;hdf5.lib;hdf5_hl.lib;libglog.lib;libopenblas.lib;libprotobuf.lib;curand.lib;LevelDb.lib;opencv_core2410.lib;opencv_highgui2410.lib;opencv_imgproc2410.lib;lmdb.lib;cublas.lib;cudnn.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <PostBuildEvent>
+      <Command>echo copy "$(CudaToolkitBinDir)\cudart*.dll" "$(OutDir)"
+copy "$(CudaToolkitBinDir)\cudart*.dll" "$(OutDir)"</Command>
+    </PostBuildEvent>
+    <CudaCompile>
+      <CodeGeneration>compute_61,sm_61;%(CodeGeneration)</CodeGeneration>
+    </CudaCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;WIN64;NDEBUG;_CONSOLE;USE_CUDNN;_WINSOCK_DEPRECATED_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <SubSystem>Console</SubSystem>
+      <AdditionalDependencies>cudart.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;libboost_thread-vc120-mt-1_59.lib;gflags.lib;hdf5.lib;hdf5_hl.lib;libglog.lib;libopenblas.lib;libprotobuf.lib;curand.lib;LevelDb.lib;opencv_core2410.lib;opencv_highgui2410.lib;opencv_imgproc2410.lib;lmdb.lib;cublas.lib;cudnn.lib;GTPushSdk_64.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <PostBuildEvent>
+      <Command>echo copy "$(CudaToolkitBinDir)\cudart*.dll" "$(OutDir)"
+copy "$(CudaToolkitBinDir)\cudart*.dll" "$(OutDir)"</Command>
+    </PostBuildEvent>
+    <CudaCompile>
+      <TargetMachinePlatform>64</TargetMachinePlatform>
+      <CodeGeneration>compute_61,sm_61</CodeGeneration>
+    </CudaCompile>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+    <Import Project="$(VCTargetsPath)\BuildCustomizations\CUDA 8.0.targets" />
+  </ImportGroup>
+</Project>
