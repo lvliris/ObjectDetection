@@ -2,9 +2,9 @@
 This is an implementation of the Faster R-CNN in C++ on Windows  
   
 The project includes:  
-- The camera captureing the image  
+- The camera capturing the image  
 - Detecting persons in the pictures  
-- Saving the pictures and sending them to the server and the smart phones  
+- Saving the pictures and sending them to the server and the smart phone  
 
 ### Requirements
 - caffe
