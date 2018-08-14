@@ -12,7 +12,7 @@ The project includes:
 
 ### Getting Started
 - Create a solution with Visual Studio and include the source code  
-- Download the [GeTui APP](http://docs.getui.com/download.html) and use the value in the app to replace the "appId", "appKey", "masterSecret" and "cid" in GRTUI.h
+- Download the [GeTui APP](http://docs.getui.com/download.html) and use the value in the app to replace the "appId", "appKey", "masterSecret" and "cid" in GETUI.h
 - Build the solution
 - Run ObjectDetect.cpp
 
